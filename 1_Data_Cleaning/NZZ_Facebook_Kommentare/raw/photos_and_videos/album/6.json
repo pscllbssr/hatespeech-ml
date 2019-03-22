@@ -1,0 +1,38 @@
+{
+  "name": "Die neue NZZ",
+  "photos": [
+    {
+      "uri": "photos_and_videos/DieneueNZZ_jPHMZxuJhA/11870735_988293534546577_4003856529382845758_n_988293534546577.jpg",
+      "creation_timestamp": 1440144987,
+      "description": "Chefredaktor Eric Gujer verteilt die neue NZZ."
+    },
+    {
+      "uri": "photos_and_videos/DieneueNZZ_jPHMZxuJhA/11891050_988293551213242_864490217581767283_n_988293551213242.jpg",
+      "creation_timestamp": 1440144988,
+      "description": "Gesch\u00c3\u00a4ftsf\u00c3\u00bchrer Steven Neubauer und CEO Veit Dengler verteilen die neue NZZ."
+    },
+    {
+      "uri": "photos_and_videos/DieneueNZZ_jPHMZxuJhA/11891015_988293611213236_750447659763871287_n_988293611213236.jpg",
+      "creation_timestamp": 1440144995
+    },
+    {
+      "uri": "photos_and_videos/DieneueNZZ_jPHMZxuJhA/11870920_988293617879902_587090935400339785_n_988293617879902.jpg",
+      "creation_timestamp": 1440144995,
+      "description": "Ein Kaffee und eine Neue Z\u00c3\u00bcrcher Zeitung - die perfekte Kombination f\u00c3\u00bcr einen entspannten Freitag Morgen."
+    },
+    {
+      "uri": "photos_and_videos/DieneueNZZ_jPHMZxuJhA/11866326_988293804546550_7048412517660462826_n_988293804546550.jpg",
+      "creation_timestamp": 1440145024
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos_and_videos/DieneueNZZ_jPHMZxuJhA/11870920_988293617879902_587090935400339785_n_988293617879902.jpg",
+    "creation_timestamp": 1440144995,
+    "description": "Ein Kaffee und eine Neue Z\u00c3\u00bcrcher Zeitung - die perfekte Kombination f\u00c3\u00bcr einen entspannten Freitag Morgen."
+  },
+  "last_modified_timestamp": 1440145308,
+  "comments": [
+    
+  ],
+  "description": "Die F\u00c3\u00bchrungsmannschaft der NZZ verteilte heute Morgen die neue NZZ - Mit mehr Lesegenuss am Wochenende, mehr Meinung und Hintergrund, st\u00c3\u00a4rkerer Bildsprache."
+}
