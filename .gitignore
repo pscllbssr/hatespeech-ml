@@ -1,3 +1,6 @@
+# protect raw data
+**/*_ignore
+
 # JPEG
 *.jpg
 *.jpeg
