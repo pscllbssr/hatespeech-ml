@@ -25,3 +25,22 @@ def clean_all(text):
     text = clean_tweet(text)
     text = clean_input(text)
     return text
+
+def plot_roc_curve(fpr, tpr, label=None):
+    import matplotlib.pyplot as plt
+    
+    """
+    The ROC curve, modified from 
+    Hands-On Machine learning with Scikit-Learn and TensorFlow; p.91
+    """
+    plt.figure(figsize=(8,8))
+    plt.title('ROC Curve')
+    plt.plot(fpr, tpr, linewidth=2, label=label)
+    plt.plot([0, 1], [0, 1], 'k--')
+    plt.axis([-0.005, 1, 0, 1.005])
+    plt.xticks(np.arange(0,1, 0.05), rotation=90)
+    plt.xlabel("False Positive Rate")
+    plt.ylabel("True Positive Rate (Recall)")
+    plt.legend(loc='best')
+
+    return plt
