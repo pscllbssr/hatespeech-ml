@@ -7,7 +7,7 @@ All the steps are described under the following link (German): [projekte.lbssr.c
 
 Contains helper functions used in various scripts. 
 
-## `1_Data_Cleaning`
+## [`1_Data_Cleaning`](/1_Data_Cleaning)
 
 Cleaning and preparing text samples from various sources. All the data sources if suitable for publication.
 Datasets used in the final model:
@@ -15,11 +15,11 @@ Datasets used in the final model:
 * dataset from Uwe Bretschneider and Ralf Peters, Martin-Luther-University Halle-Wittenberg: [Link](http://www.ub-web.de/research/)
 * Polly-Korpus by Tom De Smedt (Universität Antwerpen) and Sylvia Jaki (Universität Hildesheim): [Link](https://docs.google.com/spreadsheets/d/1c5peNMjt24U0FcEMSj8gD_JjzumqXTWbPWa_yb2nNt0/edit#gid=2031183870)
 
-## `2_Feature_Engineering`
+## [`2_Feature_Engineering`](/2_Feature_Engineering)
 
 Experimenting with various features and combining datasets.
 
-## `3_Model_Development`
+## [`3_Model_Development`](3_Model_Development)
 
 Development of the machine learning model comparing different algorithms and parameters on different datasets. The final model is found here: [Jupyter Notebook](https://github.com/pscllbssr/hatespeech-ml/blob/master/3_Model_Development/7_Version%20Deployment/4%20RF%20with%20char-vec.ipynb).
 
