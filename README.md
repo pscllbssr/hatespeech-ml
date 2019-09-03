@@ -3,7 +3,7 @@ A classifier detecting hate speech. This repo holds the whole development proces
 
 All the steps are described under the following link (German): [projekte.lbssr.ch/der-hass-im-netz/methodology.html](https://projekte.lbssr.ch/der-hass-im-netz/methodology.html). This classifier is part of an article discussing the difficulty of combatting hate speech with artifical intelligence (German): [projekte.lbssr.ch/der-hass-im-netz/](https://projekte.lbssr.ch/der-hass-im-netz/).
 
-## `0_common`
+## [`0_common`](../blob/master/0_common)
 
 Contains helper functions used in various scripts. 
 
